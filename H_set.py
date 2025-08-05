@@ -12,3 +12,4 @@ print("Sterile lab equipment", sterile_lab)
 
 all_sterile = sterile_lab | sterile_er
 print("All equipment:" ,all_sterile)
+print(contaminated)
